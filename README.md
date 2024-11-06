@@ -9,11 +9,13 @@ This Google Colab notebook is a supplementary material of the paper "PPARg Predi
 ---
 Please follow these three steps before running this notebook.
 
-1: Download the Folder named "PGMP_v1_datasets" [Download the folder](https://drive.google.com/drive/folders/1jL34B1yuN6UlADfpmmMXDW7WFXBqlW6S?usp=sharing).
+1: Download the two csv files provided herewith (named 'PGMPv1_Train.csv' and 'PGMPv1_Test.csv') and create a folder named "PGMP_v1_datasets". Move these two csv files in to the folder **PGMP_v1_datasets**.
 
-2: Upload this folder in your Google Drive.
+or Download the folder named "PGMP_v1_datasets" [Directly Download](https://drive.google.com/drive/folders/1jL34B1yuN6UlADfpmmMXDW7WFXBqlW6S?usp=sharing).
 
-3: Confirm the presence of train and test sets in that folder "PGMP_v1_datasets".
+2: Upload this folder (**PGMP_v1_datasets**) in your Google Drive. Copy this path. Make sure that 'PGMPv1_Train.csv' and 'PGMPv1_Test.csv' are present in that folder **PGMP_v1_datasets**.
+
+3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k-amPhU1Pft8WQn3eKGddSD32aqsOHBa#scrollTo=4SVqxdmO0MQM) and execute it to predict the PPAR-gamma modulatory property of the query molecule as well as visualize the molecule.
 
 ---
 Example Smiles:
@@ -25,4 +27,4 @@ Example Smiles:
 (c) Imatinib: Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1
 
 ---
-Bugs: If you encounter any bugs, please report the issue to [Dr. S.A. Amin](mailto:pharmacist.amin@gmail.com).
+Bugs: If you encounter any bugs, please report the issue to [Dr. Sk. Abdul Amin](mailto:pharmacist.amin@gmail.com).
