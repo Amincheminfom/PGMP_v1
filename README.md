@@ -1,6 +1,8 @@
 ## What is this PGMP_v1?
 
-**PGMP_v1** is an online tool hosted on Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k-amPhU1Pft8WQn3eKGddSD32aqsOHBa#scrollTo=4SVqxdmO0MQM) that predict the peroxisome proliferator-activated receptor gamma (PPAR-gamma) modulatory property (1 = Active, 0 = Inactive) of a small molecule and also visualize the molecule.
+<img src="https://github.com/Amincheminfom/PGMP_v1/blob/main/PGMP_logo.jpg?raw=1" alt="pDILI Logo" width="250" align="right"/>
+
+**PGMP_v1** is an online tool hosted on Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1olKS2e1Z27vD-0cwTz8DEgV4a--Ur27D#scrollTo=56oA9WQHE1_d) that predict the peroxisome proliferator-activated receptor gamma (PPAR-gamma) modulatory property (1 = Active, 0 = Inactive) of a small molecule and also visualize the molecule.
 
 PGMP stands fro **P**PAR-**G**amma **M**odulator(s) **P**redictor.
 
@@ -15,7 +17,7 @@ or Download the folder named "PGMP_v1_datasets" [Directly Download](https://driv
 
 2: Upload this folder (**PGMP_v1_datasets**) in your Google Drive. Copy this path. Make sure that 'PGMPv1_Train.csv' and 'PGMPv1_Test.csv' are present in that folder **PGMP_v1_datasets**.
 
-3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k-amPhU1Pft8WQn3eKGddSD32aqsOHBa#scrollTo=4SVqxdmO0MQM) and execute it to predict the PPAR-gamma modulatory property of the query molecule as well as visualize the molecule.
+3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1olKS2e1Z27vD-0cwTz8DEgV4a--Ur27D#scrollTo=56oA9WQHE1_d) and execute it to predict the PPAR-gamma modulatory property of the query molecule as well as visualize the molecule.
 
 ---
 Example Smiles:
