@@ -6,7 +6,7 @@
 
 PGMP stands fro **P**PAR-**G**amma **M**odulator(s) **P**redictor.
 
-This Google Colab notebook is a supplementary material of the paper "PPARg Predictor" (manuscript under preparation).
+This Google Colab notebook is a supplementary material of the article "PPARγ modulator predictor (PGMP_v1): chemical space exploration and computational insights for enhanced type 2 diabetes mellitus management" (https://doi.org/10.1007/s11030-025-11118-5).
 
 ---
 Please follow these three steps before running this notebook.
